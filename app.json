@@ -24,7 +24,7 @@
       "required": true
     },
     "OWNER_NUMBER": {
-      "description": "Bot owner's WhatsApp number with country code (e.g., 213553240538)",
+      "description": "Bot owner's WhatsApp number with country code (e.g., 249113388050)",
       "required": true
     },
     "PREFIX": {
