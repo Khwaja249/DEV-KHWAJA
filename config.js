@@ -19,8 +19,8 @@ module.exports = {
     
     // Owner Configuration - thats me lol
     owner: {
-        number: process.env.OWNER_NUMBER || '923001234567',
-        name: process.env.OWNER_NAME || 'WASI',
+        number: process.env.OWNER_NUMBER || '213553240538',
+        name: process.env.OWNER_NAME || 'Dev ABOODI',
         isVerified: true // owner is always verified
     },
     
